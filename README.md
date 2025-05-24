@@ -2,6 +2,10 @@
 
 A modern, responsive clone of the Intercom AI Admin interface built with React, TypeScript, and Tailwind CSS.
 
+# Live Deployed Project 
+
+https://intercom-ai-admin-clone-by-riddhi.netlify.app/
+
 ## 🌟 Features
 
 - **AI-Powered Support**: Intelligent copilot that provides contextual responses and suggestions
@@ -112,14 +116,5 @@ src/
 
 ## 📄 License
 
-MIT © [Your Name]
+MIT 
 
-## 🙏 Acknowledgments
-
-- Intercom for inspiration
-- The React community
-- All open-source contributors
-
----
-
-Built with ❤️ by [Your Name]
